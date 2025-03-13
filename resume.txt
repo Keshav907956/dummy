@@ -1,3 +1,0 @@
-#{counter,number,000} - #{path} (#{name})
-
-OrangeHRM_Launch_#{counter,number,00}
